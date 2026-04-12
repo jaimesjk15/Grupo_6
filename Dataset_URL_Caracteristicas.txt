@@ -1,0 +1,12 @@
+---------- URL DATASET (CORPUS) DE KAGGLE UTILIZADO EN EL PROYECTO ----------
+
+URL
+https://www.kaggle.com/datasets/swadhinbiswas/homomorphic-requests
+
+Características:
+
+Tamaño registros: El corpus original consta de 426,034 registros de transacciones tras el proceso de ingesta por bloques (chunking).
+
+Dimensionalidad: La dimensionalidad del dataset original es de 32 características (columnas).
+
+Representación y Uso: El dataset representa eventos operativos y transaccionales, utilizado para entrenar un modelo BERT capaz de predecir y diagnosticar incidentes críticos (RCA) en canales de pago.
