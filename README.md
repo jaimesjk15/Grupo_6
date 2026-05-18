@@ -51,4 +51,7 @@ El análisis se fundamenta en un conjunto de datos de telemetría de microservic
 5. Data Augmentation
 6. Preprocesamiento automatizado
 7. Anonimización y privacidad
-Producto final
+
+## Implementación DEMO Proyecto
+Producto final: URL Principal Demo: https://jaimesjk15.github.io/AIOPs-Demo-UEES/
+
